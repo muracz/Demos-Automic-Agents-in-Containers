@@ -1,0 +1,6 @@
+automic_global_name=DOCKER2
+automic_global_client=5000
+automic_global_rest_endpoint=https://url-to-rest-api:8088
+automic_global_rest_user=DEMO1
+automic_global_rest_pass=--encoded_password
+automic_global_system=AUTOMIC

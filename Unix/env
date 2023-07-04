@@ -1,0 +1,8 @@
+automic_global_name=docker1
+automic_global_system=AUTOMIC
+automic_misc_msgtostdout=yes
+automic_tcpip_connection= ws.1.2.3.4.nip.io=443
+automic_authorization_keypassword=changeit
+automic_variables_uc_ex_ip_addr=1.2.3.4
+automic_variables_uc_ex_ip_port="21000"
+automic_variables_uc_ex_job_md_ip_addr=localhost

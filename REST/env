@@ -1,0 +1,5 @@
+automic_global_name=docker1_rest
+automic_global_system=AUTOMIC
+automic_global_logging=CON:
+automic_tcpip_connection= ws.1.2.3.4.nip.io=443
+automic_authorization_keypassword=changeit
